@@ -1,0 +1,4 @@
+// https://www.w3schools.com/js/js_array_methods.asp
+// length
+
+3 [ <1 empty item>, 'Banana', 'Orange' ]

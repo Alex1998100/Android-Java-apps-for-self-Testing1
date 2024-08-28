@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857763266199",
+    "firebase_url": "https://jstest-4b497-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jstest-4b497",
+    "storage_bucket": "jstest-4b497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857763266199:android:cb8e07c56bb6341df3f3d2",
+        "android_client_info": {
+          "package_name": "com.vbnet.jstest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4Br5efCYQHoO3zXOXRuXlLeReV9sEAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
